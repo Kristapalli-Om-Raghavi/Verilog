@@ -106,8 +106,6 @@ Verilog/
 
 ## Learning Outcomes
 
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#learning-outcomes)
-
 * RTL Design using Verilog HDL
 * Testbench Development
 * Functional Verification
