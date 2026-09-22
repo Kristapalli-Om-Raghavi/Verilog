@@ -1,20 +1,11 @@
 # Verilog HDL Projects
-
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#verilog-hdl-projects)
-
 ## Overview
-
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#overview)
 
 This repository contains a collection of digital design projects implemented using Verilog HDL. Each project demonstrates fundamental RTL design concepts, functional verification using testbenches, and simulation in ModelSim/QuestaSim. The repository includes complete source code, testbenches, simulation waveforms, and result files for each project.
 
 ## Projects Included
 
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#projects-included)
-
 ### 1. UART (Universal Asynchronous Receiver Transmitter)
-
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#1-uart-universal-asynchronous-receiver-transmitter)
 
 A UART communication system consisting of a transmitter, receiver, baud rate generator, and top module for asynchronous serial communication.
 
@@ -28,8 +19,6 @@ A UART communication system consisting of a transmitter, receiver, baud rate gen
 
 ### 2. FIFO (First In, First Out) Design
 
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#2-fifo-first-in-first-out-design)
-
 A synchronous FIFO implemented using Verilog HDL to store and retrieve data in the order it is received.
 
 **Key Features**
@@ -42,8 +31,6 @@ A synchronous FIFO implemented using Verilog HDL to store and retrieve data in t
 
 ### 3. Digital Lock System
 
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#3-digital-lock-system)
-
 A password-based digital lock system that unlocks only for the correct password. The design includes a security feature that locks the system after **three consecutive incorrect password attempts** until it is reset.
 
 **Key Features**
@@ -55,8 +42,6 @@ A password-based digital lock system that unlocks only for the correct password.
 * Verilog Testbench
 
 ### 4. Enhanced UART Design and Verification
-
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#4-enhanced-uart-design-and-verification)
 
 An enhanced UART communication system implemented using Verilog HDL. The design integrates a configurable baud-rate generator, UART transmitter, UART receiver, TX/RX FIFOs, and a UART controller. It also includes configurable data bits, parity, stop bits, error detection, and a **three-retry retransmission mechanism**.
 
@@ -78,15 +63,11 @@ An enhanced UART communication system implemented using Verilog HDL. The design 
 
 ## Tools Used
 
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#tools-used)
-
 * Verilog HDL
 * ModelSim
 * Vivado
 
 ## Repository Structure
-
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#repository-structure)
 
 ```text
 Verilog/
@@ -142,8 +123,6 @@ Verilog/
 
 ## Future Enhancements
 
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#future-enhancements)
-
 * Develop SystemVerilog-based testbenches
 * Add assertion-based verification
 * Implement constrained-random verification
@@ -153,8 +132,6 @@ Verilog/
 * Develop reusable verification environments
 
 ## Author
-
-[svg](https://github.com/Kristapalli-Om-Raghavi/Verilog/tree/main#author)
 
 **K. Om Raghavi**
 ECE Student | Aspiring VLSI Design Verification Engineer
